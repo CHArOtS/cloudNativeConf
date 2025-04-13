@@ -4,7 +4,7 @@ spring:
   application:
     name: selenium-service
   datasource:
-    url: jdbc:mysql://localhost:3306/cloudnative
+    url: jdbc:mysql://localhost:3306/selenium
     username: root
     password: mysqladmin
     driver-class-name: com.mysql.jdbc.Driver
